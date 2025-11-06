@@ -1,9 +1,4 @@
 # 🕶️ I-XRAY: The AI Glasses That Reveal Anyone’s Personal Details
-
-**Author:** Mohan Sai Bandarupalli  
-🎓 *MS in Data Science, New Jersey Institute of Technology*  
-📧 mb2279@njit.edu  
-
 ---
 
 ## 🧠 Project Summary
